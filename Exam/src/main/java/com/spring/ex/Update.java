@@ -1,5 +1,5 @@
 package com.spring.ex;
 
 public class Update {
-	//Update ȣȣȣ
+	//Update 하하하
 }
